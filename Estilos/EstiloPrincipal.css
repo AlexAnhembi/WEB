@@ -1,0 +1,88 @@
+*
+{
+        border:0;
+        margin:0;
+        padding:0;
+}
+html,body
+{
+        min-height:100%;        
+}
+body
+{
+        background-color:#d3d3d3;
+        text-align:center;
+}
+.clear
+{
+clear:both;
+}
+.central
+{
+    margin:0 auto;  
+    width:960px;
+    height:100px;
+}
+#topo
+{     
+    background:#FFFFFF;
+    height:100px;
+}
+#topoUm
+{
+    background:#F4F4F4;
+    height:50px;
+}
+#topoDois
+{
+    background:#DBDBDB;
+    height:50px;
+}
+#logo
+{
+    margin-top:15px;
+    text-align:left;
+    float:left;
+    font-size:30px;
+    text-decoration:none;
+    color:#15A2AF;
+}
+#user
+{
+    text-align:left;
+    float:left;
+    margin-left:700px;
+    margin-top:20px;
+}
+#busca
+{
+    float:left;
+}
+#menu_lateral
+{    
+    width:250px;
+    background:#eaeaea;
+    float:left;
+}
+#menu_lateral ul, #menu_lateral li
+{ 
+    list-style:none;
+}
+#menu_lateral ul, #menu_lateral li, #menu_lateral a
+{
+    display:block;
+    width:100%;
+}
+#home_destaque
+{
+    float:left;
+    width:710px;
+}
+.box
+{    
+    margin:10px 10px 10px 10px;  
+    width:150px; 
+    height:150px; 
+    float:left;
+    background:#ff0000;
+}
